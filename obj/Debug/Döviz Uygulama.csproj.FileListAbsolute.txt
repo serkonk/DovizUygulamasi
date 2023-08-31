@@ -1,0 +1,10 @@
+D:\sourcee\repos\Döviz Uygulama\obj\Debug\Döviz Uygulama.csproj.AssemblyReference.cache
+D:\sourcee\repos\Döviz Uygulama\obj\Debug\Döviz_Uygulama.Form1.resources
+D:\sourcee\repos\Döviz Uygulama\obj\Debug\Döviz_Uygulama.Properties.Resources.resources
+D:\sourcee\repos\Döviz Uygulama\obj\Debug\Döviz Uygulama.csproj.GenerateResource.cache
+D:\sourcee\repos\Döviz Uygulama\obj\Debug\Döviz Uygulama.csproj.CoreCompileInputs.cache
+D:\sourcee\repos\Döviz Uygulama\bin\Debug\Döviz Uygulama.exe.config
+D:\sourcee\repos\Döviz Uygulama\bin\Debug\Döviz Uygulama.exe
+D:\sourcee\repos\Döviz Uygulama\bin\Debug\Döviz Uygulama.pdb
+D:\sourcee\repos\Döviz Uygulama\obj\Debug\Döviz Uygulama.exe
+D:\sourcee\repos\Döviz Uygulama\obj\Debug\Döviz Uygulama.pdb
